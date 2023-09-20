@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hasnat and I'm from 🇮🇩 Indonesia. I build accessible, inclusive products and digital experiences for the web.</p>
+<p align="left">My name is Hasnat and I build accessible, inclusive products and digital experiences for the web.</p>
 
 ###
 
