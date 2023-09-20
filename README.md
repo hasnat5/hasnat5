@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">My name is Hasnat and I build accessible, inclusive products and digital experiences for the web.</p>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hasnat5.hasnat5&left_color=lightpink&right_color=darkblue&left_text=profile view"  />
+<p align="left">My name is Hasnat and I'm from 🇮🇩 Indonesia. I build accessible, inclusive products and digital experiences for the web.</p>
 
 ###
 
@@ -25,13 +21,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
@@ -39,5 +35,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hasnat5.hasnat5&left_color=dimgrey&right_color=crimson&left_text=👁 profile view"  />
 
 ###
