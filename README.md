@@ -6,6 +6,10 @@
 
 ###
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hasnat5.hasnat5&left_color=lightpink&right_color=darkblue&left_text=profile view"  />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -35,9 +39,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
 </div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hasnat5.hasnat5&left_color=lightpink&right_color=darkblue&left_text=profile view"  />
 
 ###
