@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating programs since 2021<br>📚 I'm currently learning redux⚛️ and python🐍<br>🎯 Goals: make my waifu real👒<br>🎲 I love to solve math problems 🧮 and attending cosplay events⛩️<br>📫 You can contact me at ferdianandahasnat@gmail.com</p>
+<p align="left">- ✨ Creating programs since 2021<br>- 📚 I'm currently learning redux⚛️ and python🐍<br>- 🎯 Goals: make my waifu real👒<br>- 🎲 I love to solve math problems 🧮 and attending cosplay events⛩️<br>- 📫 You can contact me at ferdianandahasnat@gmail.com</p>
 
 ###
 
