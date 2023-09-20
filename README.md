@@ -8,7 +8,7 @@
 - 📚 I'm currently learning redux⚛️ and Python 🐍
 - 🎯 Goals: make my waifu real👒
 - 🎲 I love to solve math problems 🧮 and attending cosplay events⛩️
-- You can contact me at **ferdianandahasnat@gmail.com**
+- 📫 You can contact me at **ferdianandahasnat@gmail.com**
 
 ## I code with
 
